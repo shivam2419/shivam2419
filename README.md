@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam2419" alt="shivam2419" /></a> </p>
 
-- 🔭 I’m currently working on [Scrap Management Module](https://github.com/shivam2419/ScrapBridge.git)
+- 🔭 I’m currently working on [JobNector](https://github.com/shivam2419/jobnector.git)
 
 - 🌱 I’m currently learning **ReactJs & ML basics**
 
