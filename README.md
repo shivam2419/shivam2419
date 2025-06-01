@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wSG_U_YN0OHwEPt_OTTVih8pEBDq53-j/view?usp=drive_link](https://drive.google.com/file/d/1wSG_U_YN0OHwEPt_OTTVih8pEBDq53-j/view?usp=drive_link)
 
-<br/><br/>
+<br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/linkedin.com/in/shivam-sharma-185940274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shivam-sharma-185940274/" height="30" width="40" /></a>
@@ -41,5 +41,5 @@
 </p>
 <br/><br/>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam2419&show_icons=true&locale=en&layout=compact" alt="shivam2419" /></p>
-<br/><br/>
+<br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam2419&" alt="shivam2419" /></p>
