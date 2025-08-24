@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [JobNector](https://github.com/shivam2419/jobnector.git)
 
-- 🌱 I’m currently learning **ReactJs & ML basics**
+- 🌱 I’m currently learning **NodeJs**
 
 - 💬 Ask me about **react, django and sql**
 
